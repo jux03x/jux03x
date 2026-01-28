@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @jux03x
-- 👀 I’m interested in Java, Web technologies and Automation.
-- 🌱 I’m currently learning React and Node.js.
-- 💞️ I’m looking to collaborate on usefull Software.
-- 📫 How to reach me ...
-- ⚡ Fun fact: Still a Student.
+- 👋 Hi, I’m Julian
+- 👀 I’m interested in Java, Web technologies, Data Science and Automation.
+- 🌱 I’m currently learning how to use pyhton for Data Science.
+- 💞️ I’m preparing myselfe for a master in KI & Data Science.
+- ⚡ Fun fact: Can bench atleast 220 lbs/ 100kg💪.
 
 
