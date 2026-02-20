@@ -5,3 +5,9 @@
 - ⚡ Fun fact: Can bench atleast 220 lbs/ 100kg💪.
 
 
+#####################################################################################
+Trainings & Certificates:
+
+-----Python for Data Science------
+
+<img width="161.875" height="114,375" alt="image" src="https://github.com/user-attachments/assets/2a2339c2-3965-487b-ae34-a86cbbe85a76" />
