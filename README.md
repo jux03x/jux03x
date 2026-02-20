@@ -6,7 +6,8 @@
 
 
 #####################################################################################
-Trainings & Certificates:
+
+# Trainings & Certificates:
 
 -----Python for Data Science------
 
