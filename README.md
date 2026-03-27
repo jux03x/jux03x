@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Julian
+- 👋 Hi, I’m JU
 - 👀 I’m interested in Java, Web technologies, Data Science and Automation.
 - 🌱 I’m currently learning how to use pyhton for Data Science.
 - 💞️ I’m preparing myselfe for a master in KI & Data Science.
